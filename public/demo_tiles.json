@@ -1,0 +1,90 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_1", "ndvi_mean": 0.21, "pct_green": 15.2, "lst_mean_celsius_est": 32.5, "aod_mean": 0.45, "elevation_mean_m": 120, "precip_total_mean_mm": 950, "water_occurrence_mean": 0.05, "flood_risk_score": 0.7, "nightlight_index": 0.9, "population_density_mean_per_km2": 8000, "greenspace_priority": 0.9, "industrial_suitability": 0.2, "residential_suitability": 0.9, "best_use": "High-Density Residential"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1, 51.5 ], [ -0.09, 51.5 ], [ -0.09, 51.51 ], [ -0.1, 51.51 ], [ -0.1, 51.5 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_2", "ndvi_mean": 0.65, "pct_green": 75.8, "lst_mean_celsius_est": 24.1, "aod_mean": 0.1, "elevation_mean_m": 130, "precip_total_mean_mm": 1100, "water_occurrence_mean": 0.2, "flood_risk_score": 0.2, "nightlight_index": 0.3, "population_density_mean_per_km2": 500, "greenspace_priority": 0.2, "industrial_suitability": 0.1, "residential_suitability": 0.4, "best_use": "Park/Greenspace"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.09, 51.5 ], [ -0.08, 51.5 ], [ -0.08, 51.51 ], [ -0.09, 51.51 ], [ -0.09, 51.5 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_3", "ndvi_mean": 0.15, "pct_green": 8.1, "lst_mean_celsius_est": 35.2, "aod_mean": 0.6, "elevation_mean_m": 115, "precip_total_mean_mm": 900, "water_occurrence_mean": 0.0, "flood_risk_score": 0.5, "nightlight_index": 0.8, "population_density_mean_per_km2": 4000, "greenspace_priority": 0.8, "industrial_suitability": 0.8, "residential_suitability": 0.3, "best_use": "Industrial"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.08, 51.5 ], [ -0.07, 51.5 ], [ -0.07, 51.51 ], [ -0.08, 51.51 ], [ -0.08, 51.5 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_4", "ndvi_mean": 0.33, "pct_green": 28.9, "lst_mean_celsius_est": 29.8, "aod_mean": 0.3, "elevation_mean_m": 125, "precip_total_mean_mm": 1000, "water_occurrence_mean": 0.02, "flood_risk_score": 0.4, "nightlight_index": 0.7, "population_density_mean_per_km2": 6500, "greenspace_priority": 0.6, "industrial_suitability": 0.4, "residential_suitability": 0.7, "best_use": "Mixed-Use Commercial"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.07, 51.5 ], [ -0.06, 51.5 ], [ -0.06, 51.51 ], [ -0.07, 51.51 ], [ -0.07, 51.5 ] ] ] }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_5", "ndvi_mean": 0.45, "pct_green": 40.0, "lst_mean_celsius_est": 27.0, "aod_mean": 0.25, "elevation_mean_m": 140, "precip_total_mean_mm": 1050, "water_occurrence_mean": 0.3, "flood_risk_score": 0.8, "nightlight_index": 0.5, "population_density_mean_per_km2": 2000, "greenspace_priority": 0.4, "industrial_suitability": 0.2, "residential_suitability": 0.8, "best_use": "Suburban Residential"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1, 51.49 ], [ -0.09, 51.49 ], [ -0.09, 51.5 ], [ -0.1, 51.5 ], [ -0.1, 51.49 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_6", "ndvi_mean": 0.72, "pct_green": 82.1, "lst_mean_celsius_est": 22.5, "aod_mean": 0.08, "elevation_mean_m": 155, "precip_total_mean_mm": 1150, "water_occurrence_mean": 0.5, "flood_risk_score": 0.1, "nightlight_index": 0.2, "population_density_mean_per_km2": 150, "greenspace_priority": 0.1, "industrial_suitability": 0.0, "residential_suitability": 0.2, "best_use": "Nature Reserve"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.09, 51.49 ], [ -0.08, 51.49 ], [ -0.08, 51.5 ], [ -0.09, 51.5 ], [ -0.09, 51.49 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_7", "ndvi_mean": 0.1, "pct_green": 5.0, "lst_mean_celsius_est": 38.0, "aod_mean": 0.7, "elevation_mean_m": 110, "precip_total_mean_mm": 850, "water_occurrence_mean": 0.0, "flood_risk_score": 0.6, "nightlight_index": 0.9, "population_density_mean_per_km2": 1000, "greenspace_priority": 0.7, "industrial_suitability": 0.9, "residential_suitability": 0.1, "best_use": "Heavy Industrial Zone"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.08, 51.49 ], [ -0.07, 51.49 ], [ -0.07, 51.5 ], [ -0.08, 51.5 ], [ -0.08, 51.49 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_8", "ndvi_mean": 0.28, "pct_green": 22.5, "lst_mean_celsius_est": 31.2, "aod_mean": 0.35, "elevation_mean_m": 122, "precip_total_mean_mm": 980, "water_occurrence_mean": 0.01, "flood_risk_score": 0.5, "nightlight_index": 0.8, "population_density_mean_per_km2": 7200, "greenspace_priority": 0.7, "industrial_suitability": 0.3, "residential_suitability": 0.8, "best_use": "Commercial District"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.07, 51.49 ], [ -0.06, 51.49 ], [ -0.06, 51.5 ], [ -0.07, 51.5 ], [ -0.07, 51.49 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_9", "ndvi_mean": 0.55, "pct_green": 58.3, "lst_mean_celsius_est": 25.9, "aod_mean": 0.18, "elevation_mean_m": 135, "precip_total_mean_mm": 1120, "water_occurrence_mean": 0.15, "flood_risk_score": 0.3, "nightlight_index": 0.4, "population_density_mean_per_km2": 1200, "greenspace_priority": 0.3, "industrial_suitability": 0.1, "residential_suitability": 0.6, "best_use": "Low-Density Residential"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.1, 51.48 ], [ -0.09, 51.48 ], [ -0.09, 51.49 ], [ -0.1, 51.49 ], [ -0.1, 51.48 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_10", "ndvi_mean": 0.18, "pct_green": 12.7, "lst_mean_celsius_est": 33.8, "aod_mean": 0.5, "elevation_mean_m": 118, "precip_total_mean_mm": 920, "water_occurrence_mean": 0.0, "flood_risk_score": 0.6, "nightlight_index": 0.9, "population_density_mean_per_km2": 9500, "greenspace_priority": 0.9, "industrial_suitability": 0.5, "residential_suitability": 0.6, "best_use": "Urban Center"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.09, 51.48 ], [ -0.08, 51.48 ], [ -0.08, 51.49 ], [ -0.09, 51.49 ], [ -0.09, 51.48 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_11", "ndvi_mean": 0.40, "pct_green": 38.0, "lst_mean_celsius_est": 28.1, "aod_mean": 0.22, "elevation_mean_m": 145, "precip_total_mean_mm": 1080, "water_occurrence_mean": 0.04, "flood_risk_score": 0.4, "nightlight_index": 0.6, "population_density_mean_per_km2": 3500, "greenspace_priority": 0.5, "industrial_suitability": 0.2, "residential_suitability": 0.9, "best_use": "Medium-Density Residential"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.08, 51.48 ], [ -0.07, 51.48 ], [ -0.07, 51.49 ], [ -0.08, 51.49 ], [ -0.08, 51.48 ] ] ] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tile_id": "tile_12", "ndvi_mean": 0.68, "pct_green": 70.2, "lst_mean_celsius_est": 23.5, "aod_mean": 0.12, "elevation_mean_m": 150, "precip_total_mean_mm": 1130, "water_occurrence_mean": 0.4, "flood_risk_score": 0.2, "nightlight_index": 0.3, "population_density_mean_per_km2": 800, "greenspace_priority": 0.2, "industrial_suitability": 0.1, "residential_suitability": 0.5, "best_use": "Community Park"
+      },
+      "geometry": { "type": "Polygon", "coordinates": [ [ [ -0.07, 51.48 ], [ -0.06, 51.48 ], [ -0.06, 51.49 ], [ -0.07, 51.49 ], [ -0.07, 51.48 ] ] ] }
+    }
+  ]
+}

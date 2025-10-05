@@ -1,0 +1,56 @@
+{
+  "generated_at": "2025-10-05T09:38:42.345353+00:00",
+  "analysis_window": {
+    "start": "2022-01-01",
+    "end": "2022-12-31"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -104.41979229193018,
+          55.21212682342741
+        ],
+        [
+          
+          -104.83766817159172,
+          55.15423199772653
+        ],
+        [
+          -104.48470494662219,
+          55.08226445096443
+        ],
+        [
+          -104.11149688400496,
+          55.16577969526736
+        ],
+        [
+          -104.41979229193018,
+          55.21212682342741
+        ]
+      ]
+    ]
+  },
+  "population_density_mean_per_km2": 2.5555192779335723e-05,
+  "source": "WorldPop/GP/100m/pop",
+  "year": 2020,
+  "ndvi_mean": 0.2418067905975609,
+  "pct_green": 0.5257145300380844,
+  "lst_mean_celsius_est": 0.6423732093560375,
+  "lst_raw_mean": 13689.6186604678,
+  "aod_mean": 156.48583897556347,
+  "aod_band_used": "Optical_Depth_047",
+  "elevation_mean_m": 380.3152944354592,
+  "precip_total_mean_mm": 806.8488310142916,
+  "precip_band_used": "precipitation",
+  "landcover_dominant_class": 10,
+  "water_occurrence_mean": 95.43021184006469,
+  "flood_risk_score": 0.3522301898829877,
+  "suitability": {
+    "greenspace_priority": 0.1343224548036743,
+    "industrial_suitability": 0.7591079227690454,
+    "residential_suitability": 0.41682228305823027,
+    "best_use": "industrial"
+  }
+}
